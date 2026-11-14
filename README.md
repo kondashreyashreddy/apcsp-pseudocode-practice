@@ -6,6 +6,6 @@ This repository contains all the pseudocode practice I do to prepare for the AP 
 ## When I Took AP Computer Science Principles
 I took AP Computer Science Principles for the 2026-2027 academic school year as a freshman (9th grader) in high school.
 ## Pseudocode Creation Dates
-**01 -** *Streaming Service Differences:*  October 24th, 2026 @ 11:34pm \
+**01 -** *Streaming Service Differences:*  October 24th, 2026 @ 11:34pm 
 
 **02 -** *Random Number Guessing Game:*  November 14th, 2026 @ 3:56pm
